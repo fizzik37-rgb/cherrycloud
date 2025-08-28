@@ -19,16 +19,10 @@ layout:
 
 # 更新日志
 
-## 2025.8.24
+## 2025.8.24 A22
 
-See what’s new and improved in our July update.
 
-{% columns %}
-{% column %}
-<figure><img src=".gitbook/assets/cherrylogo.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
 
-{% column %}
 Cherry A22更新日志 8.24\
 \
 1.优化自瞄逻辑，避免对枪锁倒地\
@@ -38,8 +32,6 @@ Cherry A22更新日志 8.24\
 5.修复DMZ倒地判断
 
 [点击下载](https://vip.123pan.cn/1825695237/25055842)
-{% endcolumn %}
-{% endcolumns %}
 
 <details>
 
@@ -62,16 +54,10 @@ Cherry A22更新日志 8.24\
 
 ***
 
-## 2025.8.22
+## 2025.8.22 A21
 
 See what’s new and improved in our June update.
 
-{% columns %}
-{% column %}
-<figure><img src=".gitbook/assets/cherrylogo (1).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
 Cherry A21更新日志8.22\
 \
 彻底解决本体骨骼偶尔消失问题，和偶尔掉效果问题\
@@ -80,8 +66,6 @@ fov修复hitbox模式，开启该模式后会关闭fov显示\
 新增死区模式，后续会用使用高精度Hitbox模型\
 以上更新cod全系列都可用\
 感谢大家一路以来的支持，我们会持续优化您的体验！有什么建议或者想法可以私聊！
-{% endcolumn %}
-{% endcolumns %}
 
 <details>
 
@@ -102,16 +86,10 @@ fov修复hitbox模式，开启该模式后会关闭fov显示\
 
 </details>
 
-## 2025.8.19
+## 2025.8.19 A20
 
-See what’s new and improved in our June update.
+.
 
-{% columns %}
-{% column %}
-<figure><img src=".gitbook/assets/cherrylogo (1).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
 Cherry A20更新日志8.19\
 \
 注意！只需一个启动器即可游玩所有版本！\
@@ -122,8 +100,6 @@ AI可单独调整显示距离\
 COD19 20均有晃动抵消功能\
 可单独设置AI/玩家颜色\
 修复到期时间显示异常
-{% endcolumn %}
-{% endcolumns %}
 
 <details>
 
