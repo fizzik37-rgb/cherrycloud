@@ -19,6 +19,35 @@ layout:
 
 # 更新日志
 
+## 2025.9.5 A23
+
+
+
+Cherry A22更新日志 9.5&#x20;\
+
+
+[点击下载](https://vip.123pan.cn/1825695237/Cherry%202.0/Cherry_A23.zip)
+
+<details>
+
+<summary>优化/新增</summary>
+
+1.优化预判
+
+可视目标连线
+
+</details>
+
+<details>
+
+<summary>修复</summary>
+
+随游戏版本更新
+
+</details>
+
+***
+
 ## 2025.8.24 A22
 
 
